@@ -1,2 +1,3 @@
 "Hello Jenkins" 
 "SCM polling test" 
+"trigger test 2" 
